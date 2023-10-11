@@ -6,8 +6,8 @@
 * gunzip SRR24415235.fastq.gz 
 
 ## 3. Check quality of the sequence 
-* if fastqc environment not available ; create environment
-* if environment is available ; conda activate environment 
+NB: _If fastqc environment not available ; create environment_  
+NB: _If environment is available ; conda activate environment_   
 
 * solution: conda activate qc environment 
 * fastqc SRR24415235.fastq.gz
